@@ -19,3 +19,6 @@ Coming soon:
 Julia Sets
 Generation using arbitrary input equation
 Zooming
+
+Sample image: 
+![alt tag](https://github.com/ucb-sejits/FractalSpecializers/blob/master/mandelbrot1000.png)
